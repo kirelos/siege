@@ -1,3 +1,7 @@
+![Docker Pulls](https://img.shields.io/docker/pulls/kirelos/siege.svg)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/kirelos/siege.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/kirelos/siege.svg)
+
 # container-siege
 siege stress testing tool based on ubuntu
 
